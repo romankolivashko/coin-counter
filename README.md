@@ -1,15 +1,15 @@
-# (Application Name)
+# Coin Change Counter
 
-#### (Brief Description of Application)
+#### The application uses functional approach, returns number of quarters, dimes, nickels and pennies needed for to return change upon specified amount, for example: $4.94
 
-#### By (Your Name Here)
+#### By Roman Kolivashko
 
 ## Technologies Used
 
-* _List all_
-* _the major technologies_
-* _you used in your project_
-* _here_
+* _HTML_
+* _JavaScript_
+* _Jest_
+* _Functional programming_
 
 ## Description
 
@@ -17,7 +17,7 @@
 
 1. Click on "Use This Template" button at top of GitHub repository. 
 2. Name your repository (ex. my-project)
-3. Clone the repository: $ git clone https://github.com/account/my-project
+3. Clone the repository: $ git clone https://github.com/romankolivashko/coin-counter.git
 4. Navigate to the my-project/ directory on your computer
 5. Open with your preferred text editor to view the code base
 6. Update code to match name of project:
@@ -35,8 +35,7 @@ To run tests, navigate to my-project/ in your terminal and run the command `npm 
 
 ## Known Bugs
 
-* _Any known issues_
-* _should go here_
+* [Issues](https://github.com/romankolivashko/coin-counter/issues)
 
 ## License
 
