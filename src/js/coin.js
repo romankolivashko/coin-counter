@@ -27,8 +27,7 @@ export const coinCounterClosure = (num) => {
   let pennies = Math.floor((((num % 25) % 10) % 5) / 1);
 
   return function displayChange() {
-    //return `${quarters} quarters ${dimes} dimes ${nickels} nickels ${pennies} pennies`;
-    return quarters;
+    return `${quarters} quarters ${dimes} dimes ${nickels} nickels ${pennies} pennies`;
   }
 
 }

@@ -1,5 +1,5 @@
 import {coinCounter} from './../src/js/coin.js'
-import { coinCounterClosure } from './../src/js/coin.js';
+import { coinCounterClosure } from './../src/js/coin.js'
 
 describe('coinCounter',() => {
 test (' return number of quarters', () =>{
@@ -25,7 +25,7 @@ describe('coinCounter',() => {
 
 describe('coinCounterClosure',() => {
   test (' return number of quarters', () =>{
-  expect(coinCounterClosure(100)).toEqual(4);
+  expect(coinCounterClosure(100)).toEqual("4 quarters");
   
   })
   })
