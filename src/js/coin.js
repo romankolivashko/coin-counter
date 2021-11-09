@@ -32,4 +32,28 @@ export const coinCounterClosure = (num) => {
 
 }
   
+//Prime whiteboarding
 
+// const lionSound = soundMaker("roar");
+// const tigerSound = soundMaker("grrr");
+// const bearSound = soundMaker("grrr");
+
+// const misterJunior = nameEnhancer("Mister")("Junior");
+// const misterSenior = nameEnhancer("Mister")("Senior");
+// const missJunior = nameEnhancer("Miss")("Junior");
+
+// const addTwoMultiplyByThree = addaMult(2)(3);
+// const addTwoMultiplyByFive = addaMult(2)(5);
+// const addTwoMultiplyBySeven = addaMult(2)(7);
+
+// const reverseSentence = (string) => { 
+//   let words = string.split(" ");
+//   let reversedWords = words.reverse();
+//   let reversedSentence = reversedWords.join(" ");
+//   return reversedSentence;
+// };
+
+// const concatenatesStrings = (string1, string2, string 3) => {
+//   let concatenatedString = string1 + string2 + string3;
+//   return concatenatedString;
+// };
